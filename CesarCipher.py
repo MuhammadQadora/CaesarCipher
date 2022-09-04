@@ -1,6 +1,5 @@
 #take input from the user
 encryptthis = input('Enter the string you want to encrypt: ')
-encryptthis = encryptthis.replace(" ", "")
 #take shift value from the user 1 to 25
 
 numbers = list(range(0,11))
